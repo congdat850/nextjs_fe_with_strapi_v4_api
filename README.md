@@ -1,0 +1,2 @@
+# nextjs_fe_with_strapi_v4_api
+nextjs_fe_with_strapi_v4_api
